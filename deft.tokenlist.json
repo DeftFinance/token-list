@@ -1,0 +1,82 @@
+{
+    "name": "Deft Finance",
+    "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/crossfi-testnet/assets/deft-logo.png",
+    "keywords": [
+        "deft",
+        "xfi",
+        "crossfi",
+        "crossfinance"
+    ],
+    "timestamp": "2024-01-01T00:00:00.000+00:00",
+    "tokens": [
+        {
+            "address": "0xFEdd67B38B7eB308674FC1b698224495e0ccB7E8",
+            "name": "Deft",
+            "symbol": "DEFT",
+            "chainId": 4157,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/crossfi-testnet/assets/asset_DEFT.png"
+        },
+        {
+            "address": "0x54764B050f1129b22e365744Fe3f440Bc3aaD292",
+            "name": "eMPX",
+            "symbol": "eMPX",
+            "chainId": 4157,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/crossfi-testnet/assets/asset_EMPX.png"
+        },
+        {
+            "address": "0x83E9A41c38D71f7a06632dE275877FcA48827870",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "chainId": 4157,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/crossfi-testnet/assets/asset_USDT.png"
+        },
+        {
+            "address": "0x914938e817bd0b5f7984007dA6D27ca2EfB9f8f4",
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "chainId": 4157,
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/crossfi-testnet/assets/asset_WBTC.png"
+        },
+        {
+            "address": "0x74f4B6c7F7F518202231b58CE6e8736DF6B50A81",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "chainId": 4157,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/crossfi-testnet/assets/asset_WETH.png"
+        },
+        {
+            "address": "0x28cC5eDd54B1E4565317C3e0Cfab551926A4CD2a",
+            "name": "Wrapped XFI",
+            "symbol": "WXFI",
+            "chainId": 4157,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/crossfi-testnet/assets/asset_WXFI.png"
+        },
+        {
+            "address": "0xDb5C548684221Ce2f55F16456Ec5Cf43a028D8e9",
+            "name": "CrossFi Foundation Token",
+            "symbol": "XFT",
+            "chainId": 4157,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/crossfi-testnet/assets/asset_XFT.png"
+        },
+        {
+            "address": "0xC692E6EDe21eC911D9E35C6A52bdD31b2d4b4425",
+            "name": "CrossFi USD",
+            "symbol": "XUSD",
+            "chainId": 4157,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/crossfi-testnet/assets/asset_XUSD.png"
+        }
+    ],
+    "version": {
+        "major": 0,
+        "minor": 0,
+        "patch": 1
+    }
+}
