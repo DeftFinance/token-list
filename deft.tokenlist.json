@@ -1,6 +1,6 @@
 {
     "name": "Deft Finance",
-    "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/crossfi-testnet/assets/deft-logo.png",
+    "logoURI": "https://raw.githubusercontent.com/DeftFinance/token-list/crossfi-testnet/assets/deft-logo.png",
     "keywords": [
         "deft",
         "xfi",
@@ -15,7 +15,7 @@
             "symbol": "DEFT",
             "chainId": 4157,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/crossfi-testnet/assets/asset_DEFT.png"
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/token-list/crossfi-testnet/assets/asset_DEFT.png"
         },
         {
             "address": "0x54764B050f1129b22e365744Fe3f440Bc3aaD292",
@@ -23,7 +23,7 @@
             "symbol": "eMPX",
             "chainId": 4157,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/crossfi-testnet/assets/asset_EMPX.png"
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/token-list/crossfi-testnet/assets/asset_EMPX.png"
         },
         {
             "address": "0x83E9A41c38D71f7a06632dE275877FcA48827870",
@@ -31,7 +31,7 @@
             "symbol": "USDT",
             "chainId": 4157,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/crossfi-testnet/assets/asset_USDT.png"
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/token-list/crossfi-testnet/assets/asset_USDT.png"
         },
         {
             "address": "0x914938e817bd0b5f7984007dA6D27ca2EfB9f8f4",
@@ -39,7 +39,7 @@
             "symbol": "WBTC",
             "chainId": 4157,
             "decimals": 8,
-            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/crossfi-testnet/assets/asset_WBTC.png"
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/token-list/crossfi-testnet/assets/asset_WBTC.png"
         },
         {
             "address": "0x74f4B6c7F7F518202231b58CE6e8736DF6B50A81",
@@ -47,7 +47,7 @@
             "symbol": "WETH",
             "chainId": 4157,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/crossfi-testnet/assets/asset_WETH.png"
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/token-list/crossfi-testnet/assets/asset_WETH.png"
         },
         {
             "address": "0x28cC5eDd54B1E4565317C3e0Cfab551926A4CD2a",
@@ -55,7 +55,7 @@
             "symbol": "WXFI",
             "chainId": 4157,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/crossfi-testnet/assets/asset_WXFI.png"
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/token-list/crossfi-testnet/assets/asset_WXFI.png"
         },
         {
             "address": "0xDb5C548684221Ce2f55F16456Ec5Cf43a028D8e9",
@@ -63,7 +63,7 @@
             "symbol": "XFT",
             "chainId": 4157,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/crossfi-testnet/assets/asset_XFT.png"
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/token-list/crossfi-testnet/assets/asset_XFT.png"
         },
         {
             "address": "0xC692E6EDe21eC911D9E35C6A52bdD31b2d4b4425",
@@ -71,7 +71,7 @@
             "symbol": "XUSD",
             "chainId": 4157,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/crossfi-testnet/assets/asset_XUSD.png"
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/token-list/crossfi-testnet/assets/asset_XUSD.png"
         }
     ],
     "version": {
