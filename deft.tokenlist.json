@@ -53,7 +53,7 @@
             "logoURI": "https://raw.githubusercontent.com/DeftFinance/token-list/crossfi-testnet/assets/asset_WETH.png"
         },
         {
-            "address": "0x28cc5edd54b1e4565317c3e0cfab551926a4cd2a",
+            "address": "0x28cC5eDd54B1E4565317C3e0Cfab551926A4CD2a",
             "name": "Wrapped XFI",
             "symbol": "WXFI",
             "chainId": 4157,
